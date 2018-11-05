@@ -1,3 +1,5 @@
+# 如果您觉得本项目对你有用，请随手star，谢谢
+
 # EsayPermissions
 6.0 权限适配框架，一句代码搞定
 
@@ -34,3 +36,5 @@ compile 'com.apeng:EsayPermissions:1.0.0'
                 });
     }
 ```
+[andorid开源项目如何提交到 jcenter，史上最详细图文讲解](https://www.jianshu.com/p/aa5532e3a586)
+
