@@ -1,7 +1,9 @@
 # 如果您觉得本项目对你有用，请随手star，谢谢
 
 # EsayPermissions
-6.0 权限适配框架，一句代码搞定
+6.0 权限适配框架，一句代码搞定  
+
+项目详解：https://www.jianshu.com/p/52795b5dab3a
 
 在项目build.gradle文件中添加
 compile 'com.apeng:EsayPermissions:1.0.0'
