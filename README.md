@@ -14,7 +14,7 @@ compile 'com.apeng:EsayPermissions:1.0.0'
         EsayPermissions.with(this)
                 .constantRequest() //可设置被拒绝后继续申请，直到用户授权或者永久拒绝
 //                .permission(Permission.SYSTEM_ALERT_WINDOW, Permission.REQUEST_INSTALL_PACKAGES) //支持请求6.0悬浮窗权限8.0请求安装权限
-                .permission(Permission.READ_EXTERNAL_STORAGE,Permission.CAMERA)
+                 .permission(Permission.WRITE_EXTERNAL_STORAGE,Permission.CAMERA,Permission.RECORD_AUDIO)
                 .request(new OnPermission() {
                     @Override
                     public void hasPermission(List<String> granted, boolean isAll) {
