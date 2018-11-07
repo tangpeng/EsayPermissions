@@ -1,4 +1,5 @@
 # 如果您觉得本项目对你有用，请随手star，谢谢
+个人主页：https://www.jianshu.com/u/521b2b15caba
 
 # EsayPermissions
 6.0 权限适配框架，一句代码搞定  
